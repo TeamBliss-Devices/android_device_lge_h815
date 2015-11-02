@@ -14,6 +14,13 @@
 # limitations under the License.
 #
 
+# Bliss Optimisations
+BLISSIFY := true
+BLISS_GRAPHITE := true
+WITH_LZMA_OTA := true
+BLISS_BUILDTYPE := OFFICIAL
+BLISS_DEVELOPER := genesixxbf3
+
 # inherit from common g4
 -include device/lge/g4-common/BoardConfigCommon.mk
 
