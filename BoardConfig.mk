@@ -17,7 +17,6 @@
 # Bliss Optimisations
 BLISSIFY := true
 BLISS_GRAPHITE := true
-BLISS_BUILDTYPE := OFFICIAL
 BLISS_DEVELOPER := genesixxbf3
 
 # inherit from common g4
