@@ -17,7 +17,6 @@
 # Bliss Optimisations
 BLISSIFY := true
 BLISS_GRAPHITE := true
-WITH_LZMA_OTA := true
 BLISS_BUILDTYPE := OFFICIAL
 BLISS_DEVELOPER := genesixxbf3
 
